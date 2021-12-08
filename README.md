@@ -30,21 +30,29 @@ Essa seção pode incluir: fundamentos, sintaxe, técnicas, paradigmas ou lingua
 
 # Exemplos
 
+- Exemplos de CRUD - (Diversas linguagens e frameworks | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/exemplos-de-crud/)
+- Aprenda os conceitos básicos de várias linguagens (aprenda em 20 minutos) - (Diversas linguagens | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/aprenda-em-20-minutos/)
+
 
 # Exercícios
 
+- Exercícios sobre orientação a objetos - (Java | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/exercicios-de-orientacao-a-objetos/)
+- Exercícios sobre programação web - (HTML, Javascript, CSS, PHP, Java | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/exercicios-de-programacao-web/)
+- Exercícios sobre banco de dados - (SQL, Java | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/exercicios-de-banco-de-dados/))
+- Exercícios sobre eletrônica digital - (Não utiliza linguagens de programação | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/exercicios-de-eletronica-digital/)
+- Exercícios sobre estrutura de dados - (C, C++ | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/exercicios-de-estrutura-de-dados/)
+- Exercícios sobre lógica de programação - (Python  | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/exercicios-de-logica-de-programacao/)
+- Exercícios sobre Inteligência Artificial - (Java, Python | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/exercicios-de-inteligencia-artificial/)
 
+# Contribuições
 
+Quer contribuir com essa lista? Fique a vontade! Faça seu pull request.
+
+- Todos conteúdos serão verificados antes de serem aceitos para verificar a sua disponibilidade e relevância conforme os objetivos dessa lista.
+- Obedeça a organização do repositório e contribua com a comunidade :)
 
 # Licença
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Esse conteúdo está sobre a licença Creative Commons (com atribuição). Saiba mais sobre essa licença [aqui](https://tldrlegal.com/license/creative-commons-attribution-4.0-international-(cc-by-4))
-
-# Contribuições
-
-Quer contribuir com essa lista? Fique a vontade! 
-Faça seu pull request.
-Todos conteúdos serão verificados antes de serem aceitos para verificar a sua disponibilidade e relevância conforme os objetivos dessa lista.
-Obedeça a organização do repositório e contribua com a comunidade :)
