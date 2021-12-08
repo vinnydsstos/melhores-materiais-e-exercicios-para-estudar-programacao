@@ -9,21 +9,21 @@ Navegando pelo Github você vai encontrar listas incríveis de exercícios, mate
 
 Uma lista de cursos de progrmação gratuítos envolvendo diversos tópicos da ciência da computação. Para entrar nessa listagem o material deve ser formatado como um curso, ou seja, deve conter uma sequência lógica mínima na organização de conteúdos. Além disso, esses cursos podem vários materiais didáticos (textos, vídeos, exercícios, e-books, etc.), mas é importante dizer que todo o conteúdo explicativo deve estar em português (exceto se houver trechos de código e exemplos ilustrativos em outra língua). 
 
-## Cursos de programação
+### Cursos de programação
 Essa seção pode incluir: fundamentos, sintaxe, técnicas, paradigmas ou linguagens. 
 
 - Curso de lógica de programação (Python | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/cursos-programacao/) 
 - Curso de programação orientada a objetos - (Java | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/cursos-programacao/)
 
 
-## Cursos de banco de dados 
+### Cursos de banco de dados 
 - Curso de banco de dados - (SQL | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/cursos-banco-de-dados/)
 
-## Cursos de programação web com Java
+### Cursos de programação web com Java
 - Curso de programação web com Java- (Java | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/cursos-desenvolvimento-web/#ProgramacaoWebComJava)
 - Curso de programação web com PHP - (PHP | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/cursos-desenvolvimento-web/#ProgramacaoWebComPHP)
 
-## Cursos de ciências de dados/machine learning e áreas afins
+### Cursos de ciências de dados/machine learning e áreas afins
 - Curso de ciência de dados - (Python/Java | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/cursos-ciencia-de-dados/)
 - Curso de processamento de linguagem natural - (Python/Java | formato: texto/blog) - [Computer Science Master](https://www.computersciencemaster.com.br/cursos-processamento-de-linguagem-natural/)
 
